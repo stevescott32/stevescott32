@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi - I'm Steve
 
-<!--
-**stevescott32/stevescott32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I'm a software engineer and graduate of Utah State University.
 
-Here are some ideas to get you started:
+Interests:
+* Education and LMS Software
+* Defense/Security
+* Climate Change Mitigation
+* Interdisciplinarity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+* C++
+* C#
+* Java
+* Javascript 
+* Python (some experience)
+
+Frameworks and Other Technologies
+* Selenium
+
+Hobbies and Pastimes:
+* Rock Climbing
+* Whitewater Kayaking
+* Skiing
