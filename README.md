@@ -1,4 +1,4 @@
-### Hi - I'm Steve
+### Hi - I'm Steven
 
 ### About me
 Software engineer, recently graduated from Utah State University
@@ -16,7 +16,7 @@ Software engineer, recently graduated from Utah State University
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
 </p>
 
-Interests:
+### Interests:
 * Education and LMS Software
 * Defense, Security, and Anticipatory Intelligence
 * Economics
