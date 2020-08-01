@@ -1,7 +1,7 @@
 ### Hi - I'm Steve
 
 ### About me
-I'm a software engineer. I graduated from Utah State University with majors in Computer Science and Economics and minors in Mathematics and Anticipatory Intelligence.
+Software engineer, recently graduated from Utah State University
 
 ### Languages and Technologies
 <p>
@@ -18,12 +18,7 @@ I'm a software engineer. I graduated from Utah State University with majors in C
 
 Interests:
 * Education and LMS Software
-* Defense/Security
+* Defense, Security, and Anticipatory Intelligence
+* Economics
 * Climate Change Mitigation
 * Interdisciplinary Projects
-
-Hobbies and Pastimes:
-* Rock Climbing
-* Whitewater Kayaking
-* Skiing
-
