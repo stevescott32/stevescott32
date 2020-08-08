@@ -1,7 +1,7 @@
 ### Hi - I'm Steven
 
 ### About me
-Software engineer, recently graduated from Utah State University
+I'm a software engineer. So far in my career, I've focused on getting better at object oriented design, data visualization, and crafting excellent code. I like learning new things and working on interdisciplinary projects. 
 
 ### Languages and Technologies
 <p>
