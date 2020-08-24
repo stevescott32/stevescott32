@@ -1,7 +1,7 @@
 ### Hi - I'm Steven
 
 ### About me
-I'm a software engineer. So far in my career, I've focused on getting better at object oriented design, data visualization, and crafting excellent code. I like learning new things and working on interdisciplinary projects. 
+I'm a software engineer. So far in my career, I've focused on getting better at object oriented design, data visualization, and crafting excellent code. I like learning new things and working on interdisciplinary projects. Currently, I'm working on learning React, using Python NLP libraries for text analysis, and trying out some data visualization techniques. 
 
 ### Languages and Technologies
 <p>
